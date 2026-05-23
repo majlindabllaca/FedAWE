@@ -1,0 +1,17 @@
+# Mac
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Datasets
+data/
+raw_data/
+csvs/
+
+# Experiment outputs
+generative_results/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
