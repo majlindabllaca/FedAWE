@@ -5,13 +5,10 @@
 __pycache__/
 *.pyc
 
-# Datasets
+# datasets
 data/
 raw_data/
 csvs/
 
-# Experiment outputs
-generative_results/
-
-# Notebook checkpoints
+# notebook checkpoints
 .ipynb_checkpoints/
