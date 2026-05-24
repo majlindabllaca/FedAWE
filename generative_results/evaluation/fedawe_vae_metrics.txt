@@ -1,0 +1,5 @@
+method: fedawe_vae
+loss: 172.7260
+reconstruction_loss: 155.0725
+kl_loss: 17.6535
+diversity_score: 0.081960
